@@ -15,8 +15,8 @@ git clone https://github.com/TaufeqRazakh/455macs ~/.emacs.d
 
 <img height="200px" style="align: left" src="imgs/Auto_Complete_Example.png"/>
 <br/> Auto Complete shows possible options in a dropdown box <br/>
-<img height="200px" style="align: left" src="imgs/Before_Class_Complete.png"/>
-<img height="200px" src="imgs/After_Class_Complete.png"/>
+<img height="350px" style="align: left" src="imgs/Before_Class_Complete.png"/>
+<img height="350px" src="imgs/After_Class_Complete.png"/>
 <br/> [Java Snippets](https://github.com/nekop/yasnippet-java-mode/tree/master/snippets/java-mode) to place in code scaffolding for control statements, conditionals, modifiers, types, print statements, etc. <br/>
 
 ## FAQs

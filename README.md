@@ -14,11 +14,11 @@ But subsequent loads will be quick.
 
 ## FAQs
 
-####What does 455macs provide that standard emacs doesn't?
+#### hat does 455macs provide that standard emacs doesn't?
 
 455macs is meant to make writing your Java lab assignments and lab assignments easier and that is the reason it mostly includes java utilities. As you begin to venture into being a programmer, you are very likely to be using vim or emacs and carry your dotfiles wherever you go. 455macs is for those who have never used emacs before but wish to effectively use emacs for theor assignments and labs in CS455X. Some of the features tha
 
-####How to install more pacakages?
+#### How to install more pacakages?
 
 `use-package` is a simple way to install and configure a package for usage on emacs.
 Here is an example to download a package called `foo`
@@ -26,7 +26,7 @@ Here is an example to download a package called `foo`
 (use-package foo)
 ```
 
-####Can I suggest better features for 455macs?
+#### Can I suggest better features for 455macs?
 
 We understand that we may not be providing all the packages and tools necessary for you to be efficient. If you believe there are changes that can be made to 455macs in order to make a students life easier, please feel free to open a new issue with a short explaination of what needs to be done. <br/>
 If you've made the changes already and have emacs load-up error-free, then make a pull-request. We'll review that too. 

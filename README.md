@@ -1,10 +1,10 @@
 # 455macs
 An emacs starter kit for CS455X
 
-## Instructiosn for usage
+## Gettomg Started
 + Log into your vocareum account and identify your login directory.
-+ If you have any `init.el` files or `.emacs.d` or `.emacs` directories in advance make sure you delete them. 455macs will not load properly if these exist in the directory tree you are currently working under.
-+ use the following command to clone the starter kit and to rename it in a folder called `.emacs.d`
++ If you have any `init.el` files or `.emacs.d` or `.emacs` directories in advance make sure you delete them. 455macs will not load properly if these exist in the directory tree you are currently working under. Deleting any existing .emacs.d can be done with `rm -r -f ~/.emacs.d` & `rm -r -f ~/.emacs`.
++ Use the following command to clone the starter kit and to rename it in a folder called `.emacs.d`
 ```
 git clone https://github.com/TaufeqRazakh/455macs ~/.emacs.d
 ```
@@ -14,9 +14,9 @@ But subsequent loads will be quick.
 
 ## FAQs
 
-#### What is 455X?
-Simply, it's your emacs dotfiles.
-455macs is meant to make writing your Java lab assignments and lab assignments easier and that is the reason it mostly includes java utilities. As you begin to venture into being a programmer, you are very likely to be using vim or emacs and tend to carry your dotfiles wherever you go. 455macs is meant to serve as a starting point in your escapade.
+#### What does 455macs provide that standard emacs doesn't?
+
+455macs is meant to make writing your Java lab assignments and lab assignments easier and that is the reason it mostly includes java utilities. As you begin to venture into being a programmer, you are very likely to be using vim or emacs and carry your dotfiles wherever you go. 455macs is for those who have never used emacs before but wish to effectively use emacs for theor assignments and labs in CS455X. Some of the features tha
 
 #### How to install more pacakages?
 

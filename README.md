@@ -4,7 +4,7 @@ An emacs starter kit with CS455X in mind
 ## Getting Started
 + Log into your vocareum account and go to your default home directory.
 + If any `init.el` files or `.emacs.d` or `.emacs` directories exist in advance in you rhome dorectory, make sure you delete them. 455macs will not load properly if these exist in the directory from which you are opening emacs. Deleting any pre-existing directories and files can be done with commands `rm -r -f ~/.emacs.d`, `rm -r -f ~/.emacs` & `rm -f ~/.init.el`.
-+ Use the following command to clone 455macs from source and to rename it in a folder called `.emacs.d`
++ Use the following command to clone 455macs from source and to rename it to a folder called `.emacs.d`
 ```
 git clone https://github.com/TaufeqRazakh/455macs ~/.emacs.d
 ```

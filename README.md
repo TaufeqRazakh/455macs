@@ -1,5 +1,5 @@
 # 455macs
-An emacs starter kit for CS455X
+An emacs starter kit with CS455X in mind
 
 ## Gettomg Started
 + Log into your vocareum account and go to your default home directory.

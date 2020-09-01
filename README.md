@@ -21,7 +21,7 @@ git clone https://github.com/TaufeqRazakh/455macs ~/.emacs.d
 
 `use-package` is a simple way to install and configure a package for usage on emacs.
 Here is an example to download a package called `foo`
-```
+```clojure
 (use-package foo)
 ```
 

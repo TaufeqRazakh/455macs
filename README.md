@@ -1,5 +1,5 @@
 # 455macs
-An emacs starter kit for CS455X
+An emacs starter kit with CS455X in mind
 
 ## Getting Started
 + Log into your vocareum account and go to your default home directory.
@@ -29,7 +29,7 @@ git clone https://github.com/TaufeqRazakh/455macs ~/.emacs.d
 
 `use-package` is a simple way to install and configure a package for usage on emacs.
 Here is an example to download a package called `foo`
-```
+```clojure
 (use-package foo)
 ```
 

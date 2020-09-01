@@ -1,7 +1,7 @@
 # 455macs
 An emacs starter kit for CS455X
 
-## Gettomg Started
+## Getting Started
 + Log into your vocareum account and go to your default home directory.
 + If any `init.el` files or `.emacs.d` or `.emacs` directories exist in advance in you rhome dorectory, make sure you delete them. 455macs will not load properly if these exist in the directory from which you are opening emacs. Deleting any pre-existing directories and files can be done with commands `rm -r -f ~/.emacs.d`, `rm -r -f ~/.emacs` & `rm -f ~/.init.el`.
 + Use the following command to clone 455macs from source and to rename it in a folder called `.emacs.d`
@@ -10,6 +10,14 @@ git clone https://github.com/TaufeqRazakh/455macs ~/.emacs.d
 ```
 + Open up emacs and code away with support from autocompletion, automatic bracket matching and code snippets. There might be a delay in opening emacs for the first time after successfully downloadig 455macs since emacs attempts to download missing packages in the background. Subsequent loads will be fast. 
 + Spend some time looking into the emacs tutorial on the welcome screen to get a tast of different shortcuts and commands emacs offers.
+
+## Screenshots
+
+<img height="200px" style="align: left" src="imgs/Auto_Complete_Example.png"/>
+<br/> Auto Complete shows possible options in a dropdown box <br/>
+<img height="200px" style="align: left" src="imgs/Before_Class_Complete.png"/>
+<img height="200px" src="imgs/After_Class_Complete.png"/>
+<br/> [Java Snippets](https://github.com/nekop/yasnippet-java-mode/tree/master/snippets/java-mode) to place in code scaffolding for control statements, conditionals, modifiers, types, print statements, etc. <br/>
 
 ## FAQs
 

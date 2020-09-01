@@ -13,7 +13,7 @@ git clone https://github.com/TaufeqRazakh/455macs ~/.emacs.d
 
 ## Screenshots
 
-<img height="200px" style="align: left" src="imgs/Auto_Complete_Example.png"/>
+<img height="350px" style="align: left" src="imgs/Auto_Complete_Example.png"/>
 <br/> Auto Complete shows possible options in a dropdown box <br/>
 <img height="350px" style="align: left" src="imgs/Before_Class_Complete.png"/>
 <img height="350px" src="imgs/After_Class_Complete.png"/>

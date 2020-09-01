@@ -6,7 +6,7 @@ An emacs starter kit for CS455X
 + If you have any `init.el` files or `.emacs.d` or `.emacs` directories in advance make sure you delete them. 455macs will not load properly if these exist in the directory tree you are currently working under.
 + use the following command to clone the starter kit and to rename it in a folder called `.emacs.d`
 ```
-git clone https://github.com/TaufeqRazakh/455macs .emacs.d
+git clone https://github.com/TaufeqRazakh/455macs ~/.emacs.d
 ```
 + Open up emacs and code away. There might be a delay in opening emacs for the first time after successfully downloadig 455macs since emacs attempts to download missing packages in the background.
 But subsequent loads will be quick. 
